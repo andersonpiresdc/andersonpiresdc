@@ -1,4 +1,7 @@
-### Hi there 👋
+## Olá! Sou Anderson Antonio Pires de Almeida 👋
+
+> Trabalho da empresa TDP Sistema de Informação, na cidade de Dois Córregos, interior do estado de São Paulo. Sou programador de sistema na liguagem Pascal (Delphi) e atualmente estou estudando novas liguagens como JAVA, JAVASCRIPT...
+> 
 
 <!--
 **andersonpiresdc/andersonpiresdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
