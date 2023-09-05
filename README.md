@@ -1,7 +1,7 @@
 ## Olá! Sou Anderson Antonio Pires de Almeida 👋
 
 > Trabalho da empresa TDP Sistema de Informação, na cidade de Dois Córregos, interior do estado de São Paulo. Sou programador de sistema na liguagem Pascal (Delphi) e atualmente estou estudando novas liguagens como JAVA, JAVASCRIPT...
-> Estou cursando atualmente Engenharia da Computação na UNIVESP - Universidade Virtual do Estado de São Paulo, no polo de Dois Córregos. Estou no meu último semestre do curso.
+> Bacharel em Engenharia da Computação pela UNIVESP - Universidade Virtual do Estado de São Paulo, polo de Dois Córregos.
 
 
 <!--
