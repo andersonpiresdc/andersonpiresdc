@@ -93,6 +93,7 @@ Atualmente atuo como **Analista de Suporte Computacional** na TDP Sistemas de In
 | 🏆 | Título | Instituição | Ano |
 |---|--------|------------|-----|
 | 🎓 | Bacharel em Engenharia da Computação | UNIVESP | 2018 – 2023 |
+| ☕  | Java Completo + POO + Projetos | Udemy | 2025
 | ☁️ | Azure Fundamentals | Microsoft | 2023 |
 | 🐍 | Introdução ao Python | Alfahelix | 2022 |
 | 🏃 | Agile Day Interior - 2ª edição | UNIP Campus Bauru | 2018 |
